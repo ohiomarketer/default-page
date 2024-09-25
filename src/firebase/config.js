@@ -1,8 +1,8 @@
-export const firebaseConfig = {
-  apiKey: "AIzaSyD8BpQoXI3lF6Y8qbGFxXqglw3oEE8K9y4",
-  authDomain: "sdofsd-8da20.firebaseapp.com",
-  projectId: "sdofsd-8da20",
-  storageBucket: "sdofsd-8da20.appspot.com",
-  messagingSenderId: "682664684924",
-  appId: "1:682664684924:web:933eac590bbd199cbec8f9"
+const firebaseConfig = {
+  apiKey: "AIzaSyATmLNdQO5PTtAwI-e7GwVpgcmXW8zt39A",
+  authDomain: "phones-cards.firebaseapp.com",
+  projectId: "phones-cards",
+  storageBucket: "phones-cards.appspot.com",
+  messagingSenderId: "501813668175",
+  appId: "1:501813668175:web:536092847337d010b67d3a"
 };
